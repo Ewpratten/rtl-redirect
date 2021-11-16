@@ -3,8 +3,8 @@
     "name": "rtl-redirect",
     "redirects": [
         {
-            "source": "/:path",
-            "destination": "https://va3zza.com/:path",
+            "source": "/:path*" ,
+            "destination": "https://va3zza.com/:path*",
             "statusCode": 301
         },
         {
