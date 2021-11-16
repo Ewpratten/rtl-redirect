@@ -2,10 +2,15 @@
     "version": 2,
     "name": "rtl-redirect",
     "redirects": [
-      {
-        "source": "/:path",
-        "destination": "https://va3zza.com/:path",
-        "permanent": true
-      }
+        {
+            "source": "/:path",
+            "destination": "https://va3zza.com/:path",
+            "permanent": true
+        },
+        {
+            "source": "/",
+            "destination": "https://va3zza.com/",
+            "permanent": true
+        }
     ]
-  }
+}
