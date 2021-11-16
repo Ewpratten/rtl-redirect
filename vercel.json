@@ -1,0 +1,9 @@
+{
+    "redirects": [
+      {
+        "source": "/:path*",
+        "destination": "https://va3zza.com/:path*",
+        "permanent": true
+      }
+    ]
+  }
